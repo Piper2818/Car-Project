@@ -1,1 +1,2 @@
 # Car-Project
+This Python Program uses a number of user defined functions, a number of classes, a thread object, getter/setter methods, if else statements, and an infiniate while loop a drive a small car around a black track built onto a white poster board. The hard ware componts of the car consisted of a plastic frame, four dc motors connected to each wheel, 2 infrared sensors to detect the track, a breadboard, a Adafruit Hat, a Raspberry Pi, and 2 power sources in the form of one 9V battery and a portable charger. 
